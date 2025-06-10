@@ -39,7 +39,7 @@ pipeline {
                 }
                 stage("Detect Programming Language") {
                     steps {
-                        detectLanguage() // Calls vars/detectLanguage.groovy
+                        detectLanguage() // Calls vars/detectLanguage.groovy1
                     }
                 }
                 stage("Linting the Code and terraform linting and kubernetes linting and  docker linting") {
