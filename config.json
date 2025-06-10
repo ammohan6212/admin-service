@@ -12,5 +12,5 @@
     "kubernetesCredentialsId": "k8s-credentials-id",
     "kubernetesCaCertificate": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0t...==",
     "gcp_credid": "gcp-credentials-id",
-    "aws_credid": "aws-credentials-id"
+    "aws_credid": "aws-credentials-id1"
 }
