@@ -30,7 +30,7 @@ pipeline {
                 branch 'dev'
             }
             stages {
-                stage("Clone Dev Repo & Get Version") {
+                stage("Clone Dev Repo & Get Version1") {
                     steps {
                         script{
                             cloneRepoAndGetVersion(env.BRANCH_NAME, env.github_repo)
