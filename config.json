@@ -1,5 +1,5 @@
 {
-    "github_repo": "https://github.com/ammohan6212/frontend2.git",
+    "github_repo": "https://github.com/ammohan6212/admin-service.git",
     "serviceName": "frontend",
     "notificationRecipients": "dev-team@example.com,qa-team@example.com",
     "docker_username": "dockeruser123",
