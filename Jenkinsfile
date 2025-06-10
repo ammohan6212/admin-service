@@ -3,7 +3,7 @@
 pipeline {
     agent any
     stages {
-        stage("Load project configuration"){
+        stage("Load project configuration for project"){
             steps{
                 script{
                     def projectConfig = readJSON file: 'config.json'
