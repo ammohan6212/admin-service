@@ -1,7 +1,7 @@
 {
     "github_repo": "https://github.com/ammohan6212/admin-service.git",
     "serviceName": "admin-service",
-    "notificationRecipients": "mohan14242",
+    "notificationRecipients": "mohan14242@gmail.com",
     "docker_username": "dockeruser123",
     "docker_credentials": "docker-credentials-id",
     "docker_registry": "docker.io/ammohan6212",
